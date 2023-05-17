@@ -5,6 +5,6 @@ website: http://www.tisonsearch.com/
 
 <br/>
 <p align="center">
-  <img src="assets/demo.gif" alt="Web interface gif" />
+  <img src="assets/demo.gif" alt="web interface gif" />
 </p>
 <br/>
